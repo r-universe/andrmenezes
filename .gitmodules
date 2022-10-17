@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "unitquantreg"]
+	path = unitquantreg
+	url = https://github.com/andrmenezes/unitquantreg
+	shallow = true
+	registered = true
